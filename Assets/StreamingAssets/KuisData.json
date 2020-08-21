@@ -1,0 +1,708 @@
+{
+  "PERTANYAAN_1": [
+    "Harga satu lusin piring adalah Rp. 54.000,00 kemudian dijual dengan harga Rp. 6.250,00 per piring. Tentukan untung atau ruginya!",
+    "Seorang pedagang buah membeli 45 kg apel dengan harga Rp. 15.000,00 per kg, kemudian dijual kembali. Uang yang diperolehnya sekarang berjumlah Rp. 835.000,00. Tentukanlah untung atau ruginya!",
+    "Seorang pedagang menjual 50 bungkus lontong sayur yang terjual habis dengan harga Rp. 325.000,00. Jika dari hasil penjualan itu dia memperoleh keuntungan Rp. 2.000,00 per bungkus, berapakah harga pembelian seluruh lontong sayur tersebut?",
+    "Andi membeli sepasang sepatu dengan harga Rp. 165.000,00, karena ukurannya kurang cocok, sepatu itu dijual kembali ke teman Andi dengan harga kurang dari harga belinya. Jika Andi mengalami kerugian Rp. 23.500,00 berapakah harga jualnya?",
+    "Seorang pedagang buah membeli jeruk manis sebanyak 75 kg dengan harga Rp. 750.000,00. Kemudian jeruk-jeruk itu dijual kembali Rp. 12.500,00 per kg. Tentukanlah keuntungannya!",
+    "Seorang pedagang membeli 1 kuintal beras seharga Rp. 950.000,00 kemudian beras tersebut ia jual seharga Rp. 10.000,00 per kg. Setelah ditimbang ternyata berasnya menyusut menjadi 90 kg. Tentukanlah kerugiannya!",
+    "Seorang pedagang minuman membeli 1 kardus air mineral gelas, di mana satu kardus berisi 48 gelas kemudian di jual kembali dengan harga Rp. 24.000,00. Jika dari penjualan itu dia mendapat untung Rp. 150,00 per gelas, tentukanlah harga belinya!",
+    "Seorang penjual nasi uduk mengeluarkan Rp 2.750.000,00 untuk menjalankan usahanya. Jika pada hari itu dia menanggung kerugian sebesar Rp 150.000,00, maka berapa harga jualnya?",
+    "Seorang pengusaha mengeluarkan Rp 1.000.000,00  untuk menjalankan usahanya. Jika pada hari itu dia menanggung kerugian sebesar Rp 250.000,00, maka berapa besarnya pendapatan yang didapatkan pada hari itu?",
+    "Seorang pedagang sayuran mengeluarkan Rp 1.500.000,00 untuk menjalankan usahanya. Jika pada hari itu dia mendapatkan keuntungan sebesar Rp 200.000,00, maka berapa besarnya pendapatan yang didapatkan pada hari itu?"
+  ],
+  "PEMBAHASAN_1": [
+    "Diketahui:\\nHarga beli = Rp. 54.000,00\\nHarga jual = 12 x 6.250 = Rp.75.000,00\\n\\nDitanya:\\nBerapakah besar untung dan ruginya?\\n\\nJawab:\\nKarena harga jual lebih besar daripada harga beli maka penjual tersebut untung.\\nUntung = Harga jual - Harga beli = 75.000 - 54.000 = 21.000\\n\\nJadi penjual tersebut mendapatkan untung sebesar Rp. 21.000,00",
+    "Diketahui:\\nHarga beli = 45 x 15.000 = Rp. 675.000,00\\nHarga jual = Rp. 835.000,00\\n\\nDitanya:\\nBerapakah besar untung atau ruginya?\\n\\nJawab:\\nKarena harga jual lebih besar daripada harga beli maka pedagang tersebut untung.\\nUntung = Harga jual - Harga beli = 835.000 - 675.000 = 160.000\\n\\nJadi penjual tersebut mendapatkan untung sebesar Rp. 160.000,00",
+    "Diketahui:\\nHarga jual = Rp. 325.000,00\\nUntung = 50 x 2.000 = Rp. 100.000,00\\n\\nDitanya:\\nBerapakah harga beli semua lontong sayur tersebut?\\n\\nJawab:\\nHarga beli = Harga jual - Untung = 325.000 - 100.000 = 225.000\\n\\nJadi pedagang tersebut mengeluarkan uang sebesar Rp. 225.000,00 untuk membeli seluruh lontong sayur.",
+    "Diketahui:\\nHarga beli = Rp. 165.000,00\\nRugi = Rp.23.500,00\\n\\nDitanya: Berapakah harga jual sepatu Andi?\\n\\nJawab:\\nHarga jual = Harga beli - Rugi = 165.000 - 23.500 = 142.500\\n\\nJadi harga jual sepatu Andi adalah Rp. 141.500,00",
+    "Diketahui:\\nHarga beli = Rp. 750.000,00\\nHarga jual = 75 x 12.500 = Rp. 937.500,00\\n\\nDitanya: Tentukan besar keuntungan pedagang buah tersebut!\\n\\nJawab:\\nUntung = Harga jual - Harga beli = 937.500 - 750.000 = 187.500\\n\\nJadi pedagang buah tersebut mendapatkan untung sebesar Rp. 187.500",
+    "Diketahui:\\nHarga beli = Rp. 950.000,00\\nHarga jual = 90 x 10.000 = Rp. 900.000,00\\n\\nDitanya: Tentukan besarnya kerugian yang ditanggung pedagang tersebut!\\n\\nJawab:\\nRugi = Harga beli - Harga jual = 950.000 - 900.000 = 50.000\\n\\nJadi kerugian yang ditanggung pedagang tersebut sebesar Rp. 50.000,00",
+    "Diketahui:\\nHarga jual = Rp. 24.000,00\\nUntung = Rp. 7.200,00\\n\\nDitanya: Tentukan harga beli 1 kardus air mineral tersebut!\\n\\nJawab:\\nHarga beli = Harga jual - Untung = 24.000 - 7.200 = 16.800\\n\\nJadi harga beli satu kardus air mineral tersebut sebesar Rp. 16.800,00",
+    "Diketahui:\\nHarga beli = Rp. 2.750.000,00\\nRugi = Rp. 150.000,00\\n\\nDitanya: Berapakah harga jual nasi uduk tersebut?\\n\\nJawab:\\nHarga jual = Harga beli - Rugi = 2.750.000 - 150.000 = 2.600.000\\n\\nJadi harga jual nasi pada hari tersebut sebesar Rp. 2.600.000,00",
+    "Diketahui:\\nPengeluaran = Rp. 1.000.000,00\\nRugi = Rp. 250.000,00\\n\\nDitanya: Berapa besarnya pendapatan yang didapatkan pengusaha tersebut pada hari itu?\\n\\nJawab:\\nPendapatan = Pengeluaran - Rugi = 1.000.000 - 250.000 = 750.000\\n\\nJadi besarnya pendapatan yang didapatkan pengusaha tersebut pada hari itu sebesar Rp. 750.000,00",
+    "Diketahui:\\nPengeluaran = Rp. 1.500.000,00\\nUntung = Rp. 200.000,00\\n\\nDitanya: Berapa besarnya pendapatan yang didapatkan pedagang sayuran pada hari itu?\\n\\nJawab:\\nPendapatan = Pengeluaran + Untung = 1.500.000 + 200.000 = 1.700.000\\n\\nJadi besarnya pendapatan yang didapatkan pedagang sayuran pada hari itu sebesar Rp. 1.700.000,00"
+  ],
+  "PILIHAN_1_1": [
+    "U = 21.000",
+    "R = 21.000",
+    "U = 60.250",
+    "R = 47.750",
+    "U = 8.500"
+  ],
+  "PILIHAN_1_2": [
+    "U = 675.000",
+    "R = 675.000",
+    "U = 160.000",
+    "R = 160.000",
+    "U = 85.000"
+  ],
+  "PILIHAN_1_3": [
+    "Hb = 323.000",
+    "Hb = 327.000",
+    "Hb = 225.000",
+    "Hb = 425.000",
+    "Hb = 4.500"
+  ],
+  "PILIHAN_1_4": [
+    "Hj = 188.500",
+    "Hj = 188.000",
+    "Hj = 142.000",
+    "Hj = 142.500",
+    "Hj = 141.500"
+  ],
+  "PILIHAN_1_5": [
+    "U = 187.700",
+    "U = 78.000",
+    "U = 47.500",
+    "U = 187.500",
+    "U = 178.500"
+  ],
+  "PILIHAN_1_6": [
+    "R = 500.000",
+    "R = 50.000",
+    "R = 5.000",
+    "R = 500",
+    "R = 50"
+  ],
+  "PILIHAN_1_7": [
+    "Hb = 24.150",
+    "Hb = 31.200",
+    "Hb = 16.800",
+    "Hb = 21.800",
+    "Hb = 14.800"
+  ],
+  "PILIHAN_1_8": [
+    "Hj = 2.900.000",
+    "Hj = 2.600.000",
+    "Hj = 2.500.000",
+    "Hj = 3.000.000",
+    "Hj = 2.850.000"
+  ],
+  "PILIHAN_1_9": [
+    "Pendapatan = 1.250.000",
+    "Pendapatan = 750.000",
+    "Pendapatan = 1.150.000",
+    "Pendapatan = 850.000",
+    "Pendapatan = 125.000"
+  ],
+  "PILIHAN_1_10": [
+    "Pendapatan = 1.700.000",
+    "Pendapatan = 1.300.000",
+    "Pendapatan = 700.000",
+    "Pendapatan = 17.000.000",
+    "Pendapatan = 2.500.000"
+  ],
+  "JAWABAN_1": [
+    "U = 21.000",
+    "U = 160.000",
+    "Hb = 225.000",
+    "Hj = 141.500",
+    "U = 187.500",
+    "R = 5.000",
+    "Hb = 16.800",
+    "Hj = 2.600.000",
+    "Pendapatan = 750.000",
+    "Pendapatan = 1.700.000"
+  ],
+  "PERTANYAAN_2": [
+    "Seorang pedagang buah membeli jeruk manis sebanyak 75 kg dengan harga Rp. 750.000,00. Kemudian jeruk-jeruk itu dijual kembali Rp. 12.500,00 per kg. Tentukanlah persentase keuntungannya!",
+    "Seorang pedagang membeli 1 kuintal beras seharga Rp. 1.000.000,00 kemudian beras tersebut ia jual seharga Rp. 10.500,00 per kg. Setelah ditimbang ternyata berasnya menyusut menjadi 77 kg. Tentukanlah persentase kerugiannya!",
+    "Seorang pedagang minuman membeli 1 kardus air mineral gelas, di mana satu kardus berisi 48 gelas kemudian di jual kembali dengan harga Rp. 24.000,00. Jika dari penjualan itu dia mendapat untung Rp. 150,00 per gelas, tentukanlah persentase keuntungannya!",
+    "Seorang penjual nasi mengeluarkan Rp 2.550.000,00 untuk menjalankan usahanya. Jika pada hari itu dia menanggung kerugian sebesar Rp 150.000,00, maka berapa persentasen kerugiannya?",
+    "Harga satu lusin piring adalah Rp. 54.000,00 kemudian dijual dengan harga Rp. 6.300,00 per piring. Tentukan persentase untung atau ruginya!",
+    "Seorang pedagang buah membeli 45 kg apel dengan harga Rp. 15.000,00 per kg, kemudian dijual kembali. Uang yang diperolehnya sekarang berjumlah Rp. 875.000,00. Tentukanlah persentase untung atau ruginya!",
+    "Seorang penjual lontong sayur menjual 50 bungkus lontong sayur yang terjual habis dengan harga Rp. 325.000,00. Jika dari hasil penjualan itu dia memperoleh keuntungan Rp. 2.000,00 per bungkus, berapakah persentase keuntungan dari menjual lontong sayur tersebut?",
+    "Andi membeli sepasang sepatu dengan harga Rp. 165.000,00, karena ukurannya kurang cocok, sepatu itu dijual kembali ke teman Andi dengan harga kurang dari harga belinya. Jika Andi mengalami kerugian Rp. 27.500,00 berapakah persentase kerugiannya?",
+    "Seorang pengusaha mengeluarkan Rp 1.000.000,00  untuk menjalankan usahanya. Jika pada hari itu dia menanggung kerugian sebesar Rp 350.000,00, maka berapa persentase kerugian yang didapatkan pada hari itu?",
+    "Seorang pedagang sayuran mengeluarkan Rp 1.500.000,00 untuk menjalankan usahanya. Jika pada hari itu dia mendapatkan keuntungan sebesar Rp 250.000,00, maka berapa besarnya persentase keuntungan yang didapatkan pada hari itu?"
+  ],
+  "PEMBAHASAN_2": [
+    "Diketahui:\\nHarga beli = Rp. 750.000,00\\n Harga jual = 75 x 12.500 = Rp. 937.500,00\\n\\nDitanya: Berapa persentase keuntungan pedagang buah tersebut?\\n\\nJawab:\\nUntung = Harga jual - Harga beli = 937.500 - 750.000 = 187.500\\n%U = (U/Hb)x100% = (187.500/750.000)x100% = 25%\\n\\nJadi persentase keuntungan yang didapatkan pedagang pada hari itu sebesar 25%",
+    "Diketahui:\\nHarga beli = Rp. 1.000.000,00\\n Harga jual = 77 x 10.500 = Rp.808.500,00\\n\\nDitanya: Berapa persentase kerugian yang dialami perdagang tersebut?\\n\\nJawab:\\nRugi = Harga beli - Harga jual = 1.000.000 - 808.500 = 191.500\\n%R = (R/Hb)x100% = (191.500/1.000.000)x100% = 19,15%\\n\\nJadi persentase kerugian yang dialami pedagang pada hari itu sebesar 19,15%",
+    "Diketahui:\\nHarga  = Rp. 24.000,00\\nUntung = 48 x 150 = Rp. 7.200,00\\n\\nDitanya: Berapa persentase keuntungan yang didapat oleh pedagang tersebut>\\n\\nJawab:\\nHarga beli = Harga jual - Untung = 24.000 - 7.200 = Rp. 16.800,00\\n%U = (U/Hb)x100% = (7.200/16.800)x100% = 42,857% = 42,86%\\n\\nJadi persentase keuntungan yang didapatkan pedagang pada hari itu sebesar 42,86%",
+    "Diketahui:\\nPengeluaran/Harga beli = Rp.2.550.000,00\\nRugi = Rp.150.000,00\\n\\nDitanya: Berapa persentase kerugian yang dialami oleh penjual nasi tersebut?\\n\\nJawab:\\n%R = (R/Hb)x100% = (150.000/2.550.000)x100% = 5,88%\\n\\nJadi persentase kerugian yang dialami penjual nasi pada hari itu sebesar 5,88%",
+    "Diketahui:\\nHarga beli = Rp. 54.000,00\\nHarga jual = 12 x 6.300 = R[. 75.600,00\\n\\nDitanya: Berapa persentase untung atau rugi yang dialami penjual tersebut>\\n\\nJawab:\\nKarena harga jual lebih besar daripada harga beli maka pedagang mendapatkan Untung.\\nU = Hj - Hb = 75.600 - 54.000 = Rp. 21.600,00\\n%U = (U/Hb)x100% = (21.600/54.000)x100% = 40%\\n\\nJadi persentase keuntungan yang didapatkan penjual untuk setiap satu lusin piring sebesar 40%.",
+    "Diketahui\\nHarga beli = 45 x 15.000 = Rp.675.000,00\\nHarga jual = Rp. 875.000,00\\n\\nDitanya: Berapa persentase untung atau rugi yang dialami oleh pedagang buah tersebu?\\n\\nJawab:\\nKarena harga jual lebih besar daripada harga beli maka pedagang mendapatkan untung.\\nUntung = Harga jual - Harga beli = 875.000 - 675.000 = Rp. 200.000,00\\n%U = (U/Hb)x100% = (200.000/675.000)x100% = 29,63%\\n\\nJadi persentase keuntungan yang didapatkan pedagang tersebut sebesar 29,63%",
+    "Diketahui:\\nHarga jual = Rp. 325.000,00\\nUntung = 50 x 2.000 = Rp. 100.000,00\\n\\nDitanya: Berapa persentase keuntungan yang didapatkan oleh penjual lontong sayur tersebut?\\n\\nJawab:\\nHarga beli = Harga jual - Untung  = 325.000 - 100.000 = Rp. 225.000,00\\n%U = (U/Hb)x100% = (100.000/225.000)x100% = 44,44%\\n\\nJadi persentase keuntungan yang didapatkan penjual lontong tersebut sebesar 44,44%",
+    "Diketahui:\\nHarga beli = Rp. 165.000,00\\nRugi = Rp. 27.500,00\\n\\nDitanya: Berapa persentase kerugian yang dialami oleh Andi?\\n\\nJawab:\\n%R = (R/Hb)x100% = (27.500/165.000)x100% = 16,67%\\n\\nJadi persentase kerugian yang dialami Andi sebesar 16,67%",
+    "Diketahui:\\nPengeluaran/Harga beli = Rp.1000.000,00\\nRugi = Rp. 350.000,00\\n\\nDitanya: Berapa persentase kerugian yang dialami oleh pengusaha tersebut?\\n\\nJawab:\\n%R = (R/Hb)x100% = (350.000/1.000.000)x100% = 35%\\n\\nJadi persentase kerugian yang dialami pengusaha tersebut sebesar 35%.",
+    "Diketahui:\\nPengeluaran/Harga beli = Rp. 1.500.000,00\\nUntung = Rp. 250.000,00\\n\\nDitanya: Berapa persentase keuntungan yang didapatkan oleh pedagang sayuran tersebut?\\n\\nJawab:\\n%U = (U/Hb)x100% = (250.000/1.500.000)x100% = 16,67%\\n\\nJadi persentase keuntungan yang diperoleh pedagang tersebut sebesar 16,67%"
+  ],
+  "PILIHAN_2_1": [
+    "10%",
+    "15%",
+    "20%",
+    "52%",
+    "25%"
+  ],
+  "PILIHAN_2_2": [
+    "17,5%",
+    "16,6%",
+    "19,15%",
+    "18,7%",
+    "19,6%"
+  ],
+  "PILIHAN_2_3": [
+    "42,85%",
+    "42,86%",
+    "43,87%",
+    "43,89%",
+    "47,83%"
+  ],
+  "PILIHAN_2_4": [
+    "5,82%",
+    "5,88%",
+    "5,23%",
+    "4,87%",
+    "4,85%"
+  ],
+  "PILIHAN_2_5": [
+    "20%",
+    "30%",
+    "40%",
+    "50%",
+    "60%"
+  ],
+  "PILIHAN_2_6": [
+    "29,63%",
+    "29,62%",
+    "26,29%",
+    "26,62%",
+    "23,67%"
+  ],
+  "PILIHAN_2_7": [
+    "44,44%",
+    "44,42%",
+    "33,33%",
+    "33,36%",
+    "32,33%"
+  ],
+  "PILIHAN_2_8": [
+    "16,66%",
+    "16,67%",
+    "17,66%",
+    "17,76%",
+    "17,67%"
+  ],
+  "PILIHAN_2_9": [
+    "33%",
+    "34%",
+    "35%",
+    "36%",
+    "37%"
+  ],
+  "PILIHAN_2_10": [
+    "16,66%",
+    "16,67%",
+    "17,66%",
+    "17,76%",
+    "17,67%"
+  ],
+  "JAWABAN_2": [
+    "25%",
+    "19,15%",
+    "42,86%",
+    "5,88%",
+    "40%",
+    "29,63%",
+    "44,44%",
+    "16,67%",
+    "35%",
+    "16,67%"
+  ],
+  "PERTANYAAN_3": [
+    "Joko membeli televisi keluaran terbaru seharga Rp 5.000.000,00. Namun ia hanya disuruh membayar sebesar Rp 4.850.000,-. Jadi, berapa besar persentase diskon yang diberikan kepada Joko?",
+    "Rini membeli Helm dipasar yang tengah mendapat diskon 15% seharga Rp 238.000,00. Berapakah harga Helm sebelum didiskon?",
+    "Pak Amin membeli baju sebanyak 40 pcs dengan total harga Rp 1.600.000,00. Baju tersebut akan dijual kembali dengan harga Rp 90.000,00/pcs setelah sebulan baju tersebut tidak terjual satu pun. Pak Amin mencoba memberi diskon baju tersebut. Ternyata setalah diberi diskon, semua baju terjual semua dan pak Amin mendapatkan untung dari penualan baju tersebut sebesar Rp 920.000,00. Tentukan besar persen diskon setiap baju yang terjual tersebut!",
+    "Seorang penjual membeli baju dari grosir sebanyak 30 pcs dengan modal Rp 900.000,00. Baju tersebut dijual dengan label harga Rp 60.000,00 dengan diskon 20% dan ternyata baju tersebut terjual semua. Tentukan besar keuntungan yang penjual dapatkan!",
+    "Rika menemani adiknya Sela pergi ke Mall untuk membeli tas ransel. Sela menyukai tas dengan Harga Rp 210.000,00 dan mau membelinya. Tas tersebut bertuliskan diskon 50%+20%. Berapa uang yang dapat dihemat oleh Rika?",
+    "Rani membeli sebuah jam tangan seharga Rp. 235.000. Berapa rupiah yang harus Rani bayar jika toko menunjukkan diskon sebesar 25%?",
+    "Pada akhir tahun lalu, Santi membeli Tas di sebuah toko seharga Rp. 400.000,00. Karena diskon beliau hanya membayar sebesar Rp. 360.000,00. Berapakah persentase diskon yang diberikan toko?",
+    "Aldi menerima diskon sebesar Rp. 45.000 pada sepatu yang dibelinya. Jika, diskon yang diberikan toko sepatu yaitu 15%. Berapakah harga sepatu yang dibeli Aldi sebelum didiskon?",
+    "Bu Ega membeli  buku bacaan seharga Rp 180.000,00 setelah mendapat diskon sebesar 10%. Berapa harga buku bacaan tersebut sebelum didiskon?",
+    "Di salah satu toko swalayan memberikan potongan harga sebesar 20% untuk setiap pembelian barang yang ada. Nina membeli sebuah gamis seharga Rp. 180.000,00. Hitunglah jumlah uang yang dibayarkan Nina!"
+  ],
+  "PEMBAHASAN_3": [
+    "Diketahui:\\nHarga sebelum diskon = Rp. 5.000.0000,00\\nHarga setelah diskon = Rp. 4.850.000,00\\n\\nDitanya:\\nBerapa besar persentase diskon yang diberikan kepada Joko?\\n\\nJawab:\\nDiskon = Harga sebelum diskon - Harga setelah diskon = 5.000.000 - 4.850.000 = 150.000\\n%Diskon = (Diskon/Harga sebelum diskon) = (150.000/5.000.000) = 0,03 = 3%\\n\\njadi persentase diskon yang diberikan kepada Joko sebesar 3%",
+    "Diketahui:\\nPersentase diskon = 15%\\nHarga setelah diskon = Rp. 238.000,00\\n\\nDitanya:\\nBerapakah harga helm sebelum diskon?\\n\\nJawab:\\nDiskon = Persentase diskon x Harga sebelum diskon\\n238.000 = Harga sebelum diskon - 15% Harga sebelum diskon\\n238.000 = 85% Harga sebelum diskon\\nHarga sebelum diskon = 280.000\\n\\nJadi harga jelm sebelum didiskon sebesar Rp. 280.000,00",
+    "Diketahui:\\nHarga beli 40 pcs baju = Rp. 1.600.000,00\\nHarga jual perpasang sebelum diskon = Rp. 90.000,00\\nUntung = Rp. 920.000,00\\nHarga jual 40 pcs setelah diskon = Harga beli 40 pcs + Untung = 1.600.000 + 920.000 = Rp. 2.520.000,00\\nHarga jual perpasang setelah diskon = 2.520.000 : 40 = Rp. 63.000,00\\n\\nDitanya:\\nBerapakah besar persentase diskon setiap baju?\\n\\nJawab:\\nDiskon = Harga perpasang sebelum diskon - Harga perpasang setelah diskon\\nDiskon = 90.000 - 63.000 = 27.000\\nPersentase diskon = Diskon/Harga sebelum diskon = 27.000/90.000 = 0,3 = 30%\\n\\nJadi persentase diskon tiap baju sebesar 30%",
+    "Diketahui:\\nHarga beli = Rp.900.000,00\\nHarga jual perpasang sebelum diskon = Rp. 60.000,00\\nPersentase diskon = 20%\\n\\nDitanya:\\nTentukan besar keuntungan yang didapatkan oleh penjual tersebut!\\n\\nJawab:\\nDiskon = Persentase diskon x Harga perpasang sebelum diskon\\nDiskon = 20% x 60.000 = Rp. 12.000,00\\nHarga jual perpasang setelah diskon = Harga jual perpasang sebelum diskon - Diskon\\nHarga jual setelah diskon = 60.000 - 12.000 = 48.000\\nHarga jual 30 pcs setelah diskon = 30 x 48.000 = 1.440.000\\nUntung = Harga jual 30 pcs setelah diskon - Harga beli 30 pcs\\nUntung = 1.440.000 - 900.000 = 540.000\\n\\nJadi besar keuntungan yang didapatkan oleh pedagang tersebut sebesar Rp. 540.000,00",
+    "Diketahui:\\nHarga sebelum diskon = Rp. 210.000,00\\nPersentase diskon = 50% + 20%\\n\\nDitanya:\\nBerapakah uang yang dihemat oleh Rika (Diskon)?\\n\\nJawab:\\nKarena diskon ganda (50% + 20%) kita akan mengerjakan dengan dua langkah:\\n1. Besar diskon pertama (50) = persentase diskon x Harga sebelum diskon = 50% x 210.000 = Rp. 105.000\\nHarga setelah diskon pertama = Harga sebelum diskon pertama - diskon = 210.000 - 105.000 = Rp. 21.000,00\\n2. Besar Diskon kedua = Persentase diskon x Harga setelah diskon pertama = 20% x 105.000 = Rp. 21.000,00\\n\\nTotal diskon (50% + 20%) = 105.000 + 21.000 = Rp. 126.000\\n\\nJadi uang yang dapat dihemat oleh Rika sebesar Rp. 126.000,00",
+    "Diketahui:\\nHarga sebelum diskon = Rp. 235.000,00\\nPersentase diskon = 25%\\n\\nDitanya:\\nBerapakah rupiah yang harus dibayarkan oleh Rani?\\n\\nJawab:\\nDiskon = Persentase diskon x Harga sebelum diskon\\nDiskon = (25/100) x 235.000 = 58.750\\nRupiah yang harus dibayarkan = Harga setelah diskon = Harga sebelum diskon - Diskon\\nHarga setelah diskon = 235.000 - 58.750 = 176.250\\n\\nJadi rupiah yang harus dibayarkan oleh Rani sebesar Rp. 176.250,00",
+    "Diketahui:\\nHarga sebelum diskon = Rp. 400.000,00\\nHarga setelah diskon = Rp. 360.000,00\\n\\nDitanya:\\nTentukan persentase Diskon!\\n\\nJawab:\\nDiskon = Harga sebelum diskon - Harga setelah diskon\\nDiskon = 400.000 - 360.000 = 40.000\\nPersentase diskon = Diskon/Harga sebelum diskon = 40.000/400.000 = 0,1 = 10%\\n\\nJadi persentase diskon tiap baju sebesar 10%",
+    "Diketahui:\\nDiskon = Rp. 45.000\\nPersentase diskon = 15%\\n\\nDitanya:\\nBerapakah harga sepatu Aldi sebelum diskon\\n\\nJawab:\\nHarga sebelum diskon = Diskon/Persentase diskon = 45.000/15% = Rp. 300.000,00\\n\\nJadi harga sepatu Aldi sebelum diskon sebesar Rp. 300.000,00",
+    "Diketahui:\\nHarga setelah diskon = Rp. 180.000,00\\nPersentase diskon = 10%\\n\\nDitanya:\\nBerapakah harga buku bacaan sebelum didiskon?\\n\\nJawab:\\nDiskon = Persentase diskon x Harga sebelum diskon = 10% Harga sebelum diskon\\nHarga setelah diskon = Harga sebelum diskon - Diskon\\n180.000 = Harga sebelum diskon - 10% Harga sebelum diskon\\n180.000 = 90% Harga sebelum diskon\\nHarga sebelum diskon = 200.000\\n\\nJadi harga sepatu sebelum diskon sebesar Rp. 200.000,00",
+    "Diketahui:\\nHarga sebelum diskon = Rp. 180.000,00\\nPersentase diskon = 20%\\n\\nDitanya:\\nHitunglah jumlah uang yang harus dibayarkan Nina!\\n\\nJawab:\\nDiskon = Persentase diskon x Harga sebelum diskon = 20% x 180.000 = 36.000\\nHarga setelah diskon = Harga sebelum diskon -Diskon = 180.000 - 36.000 = 144.000\\n\\nJadi jumlah uang yang harus dibayarkan Nina sebesar Rp. 144.000,00"
+  ],
+  "PILIHAN_3_1": [
+    "3%",
+    "5%",
+    "6%",
+    "7%",
+    "13%"
+  ],
+  "PILIHAN_3_2": [
+    "35.700",
+    "280.000",
+    "202.300",
+    "47.600",
+    "232.400"
+  ],
+  "PILIHAN_3_3": [
+    "15%",
+    "20%",
+    "30%",
+    "35%",
+    "45%"
+  ],
+  "PILIHAN_3_4": [
+    "882.000",
+    "360.000",
+    "142.000",
+    "540.000",
+    "620.000"
+  ],
+  "PILIHAN_3_5": [
+    "368.500",
+    "21.000",
+    "210.000",
+    "105.000",
+    "126.500"
+  ],
+  "PILIHAN_3_6": [
+    "176.250",
+    "58.750",
+    "23.500",
+    "176.750",
+    "160.450"
+  ],
+  "PILIHAN_3_7": [
+    "25%",
+    "10%",
+    "7%",
+    "0,1%",
+    "3%"
+  ],
+  "PILIHAN_3_8": [
+    "600.000",
+    "450.000",
+    "80.000",
+    "20.000",
+    "18.000"
+  ],
+  "PILIHAN_3_9": [
+    "50.000",
+    "100.000",
+    "800.000",
+    "200.000",
+    "180.000"
+  ],
+  "PILIHAN_3_10": [
+    "100.000",
+    "300.000",
+    "180.000",
+    "17.000",
+    "144.000"
+  ],
+  "JAWABAN_3": [
+    "3%",
+    "280.000",
+    "30%",
+    "540.000",
+    "126.500",
+    "176.250",
+    "10%",
+    "80.000",
+    "200.000",
+    "144.000"
+  ],
+  "PERTANYAAN_4": [
+    "Seorang guru memperoleh gaji Rp. 2.750.000,00 dan harus membayar pajak 5%. Berapa gaji yang diterima guru tersebut?",
+    "Seorang karyawan restoran menerima gaji Rp. 3.500.000,00 tiap bulan dengan penghasilan tidak kena pajak Rp. 500.000,00. Jika pajak penghasilan 5%, berapakah besar gaji besar yang diterima karyawan itu sebulan?",
+    "Rina mengelola sebuah restoran dan penghasilannya tiap bulan sebesar Rp. 85.000.000,00. Rina dikenakan pajak penghasilan sebesar 15%. Tentukanlah pendapatan Rina setelah potong pajak!",
+    "Adi membeli sebuah sepeda motor dengan harga Rp. 20.000.000,00. Dia diberi diskon 10%. Jika Adi kena pajak 5,5%, tentukanlah harga sepeda motor yang harus dibayar Adi!",
+    "Pak Rudi berhasil menjual sepatu setiap bulan sebanyak 40 pasang sepatu dengan harga per pasang Rp 300.000,00. Untuk menarik pelanggan, Pak Rudi memberikan diskon 10% setiap pasangnya. Berapakah pajak UMKM (1%) yang harus dibayar oleh Pak Rudi dalam satu bulan?",
+    "Pak Putu memperoleh gaji Rp 3.000.000,00 sebulan dengan penghasilan tidak kena pajak Rp  500.000,00. Jika pajak penghasilan (PPh) diketahui 5%, berapakah besar gaji yang diterima Pak Putu per bulan?",
+    "Seorang bapak membeli sebuah mobil untuk dihadiahkan pada seorang anaknya yang akan berulang tahun ke-17, dengan harga Rp. 75.000.000,00. Pada pembelian mobil tersebut, sang bapak mendapat diskon 10%, tetapi harus membayar pajak 25%. Berapakah harga mobil yang harus dibayarkan sang bapak?",
+    "Pak Yusril berhasil menjual tas setiap hari sebanyak 50 tas dengan harga per tas Rp 250.000,00. Berapakah pajak UMKM (1% yang harus dibayar oleh Pak Rudi dalam satu bulan?",
+    "Seorang guru memperoleh gaji Rp. 4.750.000,00 dan harus membayar pajak 5%. Berapa gaji yang diterima guru tersebut?",
+    "Ibu Linda membeli sebuah lemari es dengan harga Rp. 4.500.000,00 belum termasuk pajak. Berapakah uang yang harus dibayarkan Bu Linda jika pajak yang dikenakan sebesar 10% dan Bu Linda mendapatkan diskon 5%?"
+  ],
+  "PEMBAHASAN_4": [
+    "Diketahui:\\nGaji awal = Rp. 2.750.000,00\\nPersentase pajak = 5%\\n\\nDitanya:\\nBerapa gaji bersih yang diterima oleh guru tersebut?\\n\\nJawab:\\nPajak = Persentase pajak x Gaji awal = (5/100) x 2.750.000 = 137.500\\nGaji bersih = Gaji awal - Pajak = 2.750.000 - 137.500 = 2.612.500\\n\\nJadi gaji bersih yang diterima guru tersebut sebesar Rp. 2.612.500,00",
+    "Diketahui:\\nGaji awal = Rp. 3.500.000,00\\nGaji tidak kena pajak = Rp. 500.000,00\\nPersentase pajak = 5%\\n\\nDitanya:\\nBerapa besar gaji bersih yang didapatkan oleh karyawan restoran?\\n\\nJawab:\\nPajak = Persentase pajak x Gaji kena pajak = (5/100) x 3.000.000 = 150.000\\nGaji bersih = Gaji awal - Pajak = 3.500.000 - 150.000 = 3.350.000\\n\\nJadi gaji bersih yang diterima karyawan restoran tersebut sebesar Rp. 3.350.000,00",
+    "Diketahui:\\nPenghasilan awal = Rp. 85.000.000,00\\nPersentase pajak = 15%\\n\\nDitanya:\\nTentukanlah pendapatan bersih yang diperoleh Rina?\\n\\nJawab:\\nPajak = Persentase pajak x Penghasilan awal = (15/100) x 85.000.000 = 12.750.000\\nPendapatan bersih = Penghasilan awal - Pajak = 85.000.000 - 12.750.000 = 72.750.000\\n\\nJadi pendapatan bersih yang diperoleh Rina sebesar Rp. 72.750.000,00",
+    "Diketahui:\\nHarga awal = Rp. 20.000.000,00\\nPersentase diskon = 10%\\nPersentase pajak = 5,5%\\n\\nDitanya:\\nTentukan harga sepeda motor yang harus dibayarkan oleh Adi?\\n\\nJawab:\\nDiskon = Persentase diskon x Harga awal = (10/100) x 20.000.000 = 2.000.000\\nHarga setelah diskon = Harga awal - Diskon = 20.000.000 - 2.000.000 = 18.000.000\\nPajak = Persentase pajak x Harga setelah diskon = (5,5/100) x 18.000.000 = 990.000\\nHarga setelah pajak = Harga setelah diskon + Pajak = 18.000.000 + 990.000 = 18.990.000\\n\\nJadi harga sepeda motor yang harus dibayarkan Adi sebesar Rp.18.990.000,00",
+    "Diketahui:\\nHarga awal = 40 x 300.000 = Rp. 12.000.000,00\\nPersentase diskon = 10%\\nPersentase pajak = 1%\\n\\nDitanya:\\nBerapakah besarnya pajak yang harus dibayarkan oleh Pak Rudi?\\n\\nJawab:\\nDiskon = Persentase diskon x Harga awal = (10/100) x 12.000.000 = 1.200.000\\nPenghasilan = Harga awal - Diskon = 12.000.000 - 1.200.000 = 10.080.000\\nPajak = Persentase pajak x Penghasilan = (1/100) x 10.800.000 = 108.000\\n\\nJadi besarnya pajak yang harus dibayarkan Pak Rudi sebesar Rp. 108.000,00",
+    "Diketahui:\\nGaji awal = Rp. 3.000.000,00\\nGaji tidak kena pajak = Rp. 500.000,00\\nPersentase pajak = 5%\\n\\nDitanya:\\nBerapakah besar gaji bersih yang diterima Pak Putu?\\n\\nJawab:\\nPajak = Persentase pajak x Gaji kena pajak = (5/100) x 2.500.000 = 125.000\\nGaij bersih = Gaji awal - Pajak = 3.000.000 - 125.000 = 2.875.000\\n\\nJadi gaji bersih yang diterima Pak Putu sebesar Rp. 2.875.000,00",
+    "Diketahui:\\nHarga awal = Rp. 75.000.000,00\\nPersentase diskon = 10%\\nPersentase pajak = 25%\\n\\nDitanya: Berapakah harga mobil yang harus dibayarkan bapak tersebut?\\n\\nJawab:\\nDiskon = Persentase diskon x Harga awal = (10/100) x 75.000.000 = 7.500.000\\nHarga setelah diskon = Harga awal - Diskon = 75.000.000 - 7.500.000 = 67.500.000\\nPajak = Persentase pajak x Harga setelah diskon = (25/100) x 67.500.000 = 16.875.000\\nHarga setelah pajak = Harga setelah diskon + Pajak = 67.500.000 + 16.875.000 = 84.375.000\\n\\nJadi harga mobil yang harus dibayarkan bapak tersebut sebesar Rp. 84.375.000,00",
+    "Diketahui:\\nPenghasilan awal = 50 x 250.000 = Rp. 12.500.000,00\\nPersentase pajak = 1%\\n\\nDitanya:\\nBerapakah besarnya pajak UMKM yang harus dibayarkan oleh Pak Yusril?\\n\\nJawab:\\nPajak = Persentase pajak x Penghasilan awal = (1/100) x 12.500.000 = 125.000\\n\\nJadi besarnya pajak yang harus dibayarkan Pak Yusril sebesar Rp. 125.000,00",
+    "Diketahui:\\nGaji awal = Rp. 4.750.000,00\\nPersentase pajak = 5%\\n\\nDitanya:\\nBerapakah besarnya gaji bersih yang diterima oleh guru tersebut?\\n\\nJawab:\\nPajak = Persentase pajak x Gaji awal = (5/100) x 4.750.000 = 237.500\\nGaji bersih = Gaji awal - Pajak = 4.750.000 - 237.500 = 4.512.500\\n\\nJadi gaji bersih yang diterima guru tersebut sebesar Rp. 4.512.500,00",
+    "Diketahui:\\nHarga awal = Rp. 4.500.000,00\\nPersentase diskon = 5%\\nPersentase pajak = 10%\\n\\nDitanya:\\nBerapakah uang yang harus dibayarkan oleh Bu Linda?\\n\\nJawab:\\nDiskon = Persentase diskon x Harga awal = (5/100) x 4.500.000 = 225.000\\nHarga setelah diskon = Harga awal - Diskon = 4.500.000 - 225.000 = 4.275.000\\nPajak = Persentase pajak x Harga setelah diskon = (10/100) x 4.275.000 = 427.500\\nHarga setelah pajak = Harga setelah diskon + Pajak = 4.275.000 + 427.500 = 4.702.500\\n\\nJadi uang yang harus dibayarkan oleh Bu Linda sebesar Rp. 4.702.500,00"
+  ],
+  "PILIHAN_4_1": [
+    "2.612.500",
+    "261.250",
+    "26.125.000",
+    "261.250.000",
+    "87.500"
+  ],
+  "PILIHAN_4_2": [
+    "3.520.000",
+    "3.350.000",
+    "3.320.000",
+    "3.530.000",
+    "3.350.500"
+  ],
+  "PILIHAN_4_3": [
+    "12.750.000",
+    "1.275.000",
+    "72.250.000",
+    "7.225.000",
+    "75.000.000"
+  ],
+  "PILIHAN_4_4": [
+    "20.000.000",
+    "18.000.000",
+    "990.000",
+    "18.990.000",
+    "2.000.000"
+  ],
+  "PILIHAN_4_5": [
+    "12.000.000",
+    "1.200.000",
+    "10.800.000",
+    "105.000",
+    "108.000"
+  ],
+  "PILIHAN_4_6": [
+    "2.875.000",
+    "3.000.000",
+    "3.500.000",
+    "1.340.000",
+    "125.000"
+  ],
+  "PILIHAN_4_7": [
+    "7.500.000",
+    "84.375.000",
+    "67.500.000",
+    "16.875.000",
+    "70.325.000"
+  ],
+  "PILIHAN_4_8": [
+    "600.000",
+    "450.000",
+    "125.000",
+    "1.250.000",
+    "150.000"
+  ],
+  "PILIHAN_4_9": [
+    "237.500",
+    "2.612.000",
+    "4.515.000",
+    "4.515.500",
+    "4.750.000"
+  ],
+  "PILIHAN_4_10": [
+    "3.705.000",
+    "3.500.000",
+    "427.500",
+    "4.275.000",
+    "4.702.000"
+  ],
+  "JAWABAN_4": [
+    "2.612.500",
+    "3.350.000",
+    "72.250.000",
+    "569.250",
+    "108.000",
+    "2.875.000",
+    "84.375.000",
+    "125.000",
+    "4.515.500",
+    "4.702.000"
+  ],
+  "PERTANYAAN_5": [
+    "Pak Yudi akan meminjam uang di Bank dengan persentase bunga sebesar 10% pertahun. Besar uang yang dipinjam oleh Pak Yudi adalah 12 juta rupiah. Jika Pak Yudi bermaksud untuk meminjam uang selama 1 tahun, tentukan besar keseluruhan bunga yang harus ditanggung oleh Pak Yudi!",
+    "Pak Bagus meminjam uang di Bank sebesar Rp 2.000.000,00 rupiah. Dia mengangsur pinjaman tersebut dengan nominal Rp 200.000,00 perbulan, selama 1 tahun. Tentukan persentase bunga pertahun yang disyaratkan oleh Bank tersebut!",
+    "Seorang petani meminjam uang dari KUD sebesar Rp. 10.000.000,00 dengan bunga 1,5% per bulan. Pengembalian utang akan dicicil 20 kali. Berapakah besar angsurannya per bulan?",
+    "Pak Adang menabung uang sebesar Rp. 800.000,00 di sebuah bank dengan bunga tunggal. Tentukan persentase bunga, apabila bunga yang diterima selama satu tahun sebesar Rp. 125.000,00",
+    "Setelah 9 bulan uang tabungan Susi di koperasi berjumlah Rp. 3.815.000. Koperasi memberi jasa simpanan berupa bunga 12% pertahun. Berapa tabungan awal Susi di koperasi?",
+    "Pak Hendra menyimpan uang di koperasi dengan bunga 18% per tahun. Jika Pak Hendra menyimpan uang selama 8 bulan dan mendapat bunga sebesar Rp. 96.000,00. Tentukanlah jumlah uang yang disimpan Pak Hendra di koperasi!",
+    "Bondan menyimpan uang di suatu bank sebesar Rp. 750.000,00 dengan bunga 15% setahun. Jika Bondan menerima bunga sebesar Rp. 65.625,00, tentukan lamanya uang itu disimpan di bank!",
+    "Sabrina meminjam uang dari sebuah bank sebanyak Rp. 4.500.000,00 untuk biaya pengembangan usahanya. Bank memberikan bunga 16% per tahun. Uang itu dicicil selama 15 tahun. Tentukanlah besar cicilannya setiap bulan!",
+    "Seorang siswa menabung di koperasi sekolah sebanyak Rp. 100.000,00 dengan bunga 2% sebulan. Berapa nomina uang siswa setelah 6 bulan?",
+    "Nona menabung di sebuah bank sebanyak Rp 150.000,00 dengan bunga 12% per tahun. Setelah beberapa tahun Nona mengambil seluruh tabungannya sebesar Rp. 165.000,00. Berapa lama menabug Nona?"
+  ],
+  "PILIHAN_5_1": [
+    "1.200.000",
+    "12.000.000",
+    "120.000",
+    "10.800.000",
+    "13.200.000"
+  ],
+  "PILIHAN_5_2": [
+    "10%",
+    "20%",
+    "15%",
+    "35%",
+    "16%"
+  ],
+  "PILIHAN_5_3": [
+    "12.750.000",
+    "1.275.000",
+    "650.000",
+    "7.225.000",
+    "75.000"
+  ],
+  "PILIHAN_5_4": [
+    "1.150.000",
+    "10.350.000",
+    "632.500",
+    "569.250",
+    "620.000"
+  ],
+  "PILIHAN_5_5": [
+    "1.500.000",
+    "2.000.000",
+    "2.500.000",
+    "3.000.000",
+    "3.500.000"
+  ],
+  "PILIHAN_5_6": [
+    "800.000",
+    "60.000",
+    "600.000",
+    "1.340.000",
+    "160.450"
+  ],
+  "PILIHAN_5_7": [
+    "7 Tahun",
+    "7 Bulan",
+    "6 Bulan",
+    "6 Tahun",
+    "27 Bulan"
+  ],
+  "PILIHAN_5_8": [
+    "50.000",
+    "1.020.000",
+    "85.000",
+    "1.250.000",
+    "150.000"
+  ],
+  "PILIHAN_5_9": [
+    "20.000",
+    "12.000",
+    "120.000",
+    "112.000",
+    "150.000"
+  ],
+  "PILIHAN_5_10": [
+    "10 Tahun",
+    "3 Tahun",
+    "3 Bulan",
+    "4 Bulan",
+    "10 Bulan"
+  ],
+  "JAWABAN_5": [
+    "1.200.000",
+    "20%",
+    "650.000",
+    "569.250",
+    "3.500.000",
+    "800.000",
+    "7 Bulan",
+    "85.000",
+    "112.000",
+    "10 Bulan"
+  ],
+  "PERTANYAAN_6": [
+    "Suatu benda memiliki neto 10 kg dan tara 500 gram. Tentukan bruto (dalam kg) benda tersebut!",
+    "Suatu ketika Pak Hadi membeli dua karung beras dengan jenis yang berbeda. Karung pertama tertulis neto 25 kg dibeli dengan harga Rp 260.000,00. Karung kedua tertuliskan neto 25 kg dibeli dengan harga Rp 280.000,00. Pak Hadi mencampur kedua jenis beras tersebut, kemudian mengemasinya dalam ukuran neto 5 kg. Tentukan harga jual beras tersebut agar Pak Hadi untung 20%!",
+    "Suatu ketika Pak Hadi membeli dua karung beras dengan jenis yang berbeda. Karung pertama tertulis neto 30 kg dibeli dengan harga Rp 260.000,00. Karung kedua tertuliskan neto 30 kg. Pak Hadi mencampur kedua jenis beras tersebut, kemudian mengemasinya dalam ukuran neto 3 kg. Beras campuran tersebut dijual dengan harga Rp 33.000,00 per kemasan. Jika keuntungan tiap kemasan adalah 20%, tentukan harga beli beras kedua!",
+    "Seorang pedagang tempe membeli sekarung kacang kedelai seberat 100 kg. Tara untuk karung 1,5% dan potongan harga 5%. Jika harga kedelai Rp. 3.500,00 per kg, tentukanlah harga kedelai yang harus dibayar pedagang tempe tersebut!",
+    "Bruto satu peti jeruk manis adalah 85 kg dan taranya 5 kg. Hitunglah bruto 15 peti jeruk manis!",
+    "Jika pada karung beras ditulis bruto 100 kg dan tara 10%, maka Tentukan nettonya!",
+    "Seorang pedagang membeli beras satu kuintal seharga Rp. 500.000,00. Jika tara 2% dan harga jual Rp 4.500,00 per kg, maka berapa besar pedagang menderita kerugian?",
+    "Seorang pedagang beras membeli 5 karung beras dengan harga Rp. 650.000,00. Pada masing-masing karung tertulis bruto 50 kg dan tara 1%. Beras dijual dengan harga Rp. 2.000,00 per kg. Beras terjual semua, maka berapa besar kerugian pedagang?",
+    "Bu Edah membeli satu keranjang buah rambutan yang beratnya 50 kg dan tarranya 1,250 kg. Berapa persentase taranya?",
+    "Bela membeli sekarung jeruk beratnya 2 kuintal. Setelah ditimbang beratnya 197 kg. Berapa persentasenya tarranya?"
+  ],
+  "PILIHAN_6_1": [
+    "10,5",
+    "10,05",
+    "9,5",
+    "9,95",
+    "490"
+  ],
+  "PILIHAN_6_2": [
+    "108.500",
+    "64.800",
+    "10.800.000",
+    "129.600",
+    "54.000"
+  ],
+  "PILIHAN_6_3": [
+    "750.000",
+    "275.000",
+    "290.000",
+    "225.000",
+    "75.000"
+  ],
+  "PILIHAN_6_4": [
+    "150.000",
+    "350.000",
+    "632.500",
+    "327.500",
+    "620.000"
+  ],
+  "PILIHAN_6_5": [
+    "1.525",
+    "15.750",
+    "725",
+    "85",
+    "1.275"
+  ],
+  "PILIHAN_6_6": [
+    "90",
+    "60",
+    "6",
+    "13",
+    "16"
+  ],
+  "PILIHAN_6_7": [
+    "70.000",
+    "59.000",
+    "450.000",
+    "67.000",
+    "270.000"
+  ],
+  "PILIHAN_6_8": [
+    "50.000",
+    "120.000",
+    "155.000",
+    "250.000",
+    "150.000"
+  ],
+  "PILIHAN_6_9": [
+    "20%",
+    "1,2%",
+    "12%",
+    "2,5%",
+    "2,1%"
+  ],
+  "PILIHAN_6_10": [
+    "1%",
+    "1,2%",
+    "1,3%",
+    "1,4%",
+    "1,5%"
+  ],
+  "JAWABAN_6": [
+    "10,5",
+    "64.800",
+    "290.000",
+    "327.500",
+    "1.275",
+    "90",
+    "59.000",
+    "155.000",
+    "2,5%",
+    "1,5%"
+  ],
+  "PERTANYAAN_EVAL": [
+    "Seorang pedagang buah membeli 45 kg apel dengan harga Rp. 15.000,00 per kg, kemudian dijual kembali. Uang yang diperolehnya sekarang berjumlah Rp. 835.000,00. Tentukanlah untung atau ruginya!",
+    "Seorang pedagang buah membeli 45 kg apel dengan harga Rp. 15.000,00 per kg, kemudian dijual kembali. Uang yang diperolehnya sekarang berjumlah Rp. 875.000,00. Tentukanlah persentase untung atau ruginya!",
+    "Seorang penjual membeli baju dari grosir sebanyak 30 pcs dengan modal Rp 900.000,00. Baju tersebut dijual dengan label harga Rp 60.000,00 dengan diskon 20% dan ternyata baju tersebut terjual semua. Tentukan besar keuntungan yang penjual dapatkan!",
+    "Rina mengelola sebuah restoran dan penghasilannya tiap bulan sebesar Rp. 85.000.000,00. Rina dikenakan pajak penghasilan sebesar 15%. Tentukanlah pendapatan Rina setelah potong pajak!",
+    "Bondan menyimpan uang di suatu bank sebesar Rp. 750.000,00 dengan bunga 15% setahun. Jika Bondan menerima bunga sebesar Rp. 65.625,00, tentukan lamanya uang itu disimpan di bank!",
+    "Suatu benda memiliki neto 10 kg dan tara 500 gram. Tentukan bruto (dalam kg) benda tersebut!",
+    "Seorang pedagang tempe membeli sekarung kacang kedelai seberat 100 kg. Tara untuk karung 1,5% dan potongan harga 5%. Jika harga kedelai Rp. 3.500,00 per kg, tentukanlah harga kedelai yang harus dibayar pedagang tempe tersebut!",
+    "Seorang pedagang tempe membeli sekarung kacang kedelai seberat 100 kg. Tara untuk karung 1,5% dan potongan harga 5%. Jika harga kedelai Rp. 3.500,00 per kg, tentukanlah harga kedelai yang harus dibayar pedagang tempe tersebut!",
+    "Seorang bapak membeli sebuah mobil untuk dihadiahkan pada seorang anaknya yang akan berulang tahun ke-17, dengan harga Rp. 75.000.000,00. Pada pembelian mobil tersebut, sang bapak mendapat diskon 10%, tetapi harus membayar pajak 25%. Berapakah harga mobil yang harus dibayarkan sang bapak?",
+    "Sabrina meminjam uang dari sebuah bank sebanyak Rp. 4.500.000,00 untuk biaya pengembangan usahanya. Bank memberikan bunga 16% per tahun. Uang itu dicicil selama 15 tahun. Tentukanlah besar cicilannya setiap bulan."
+  ],
+  "PILIHAN_EVAL_1": [
+    "U = 675.000",
+    "R = 675.000",
+    "U = 160.000",
+    "R = 160.000",
+    "U = 85.000"
+  ],
+  "PILIHAN_EVAL_2": [
+    "29,63%",
+    "29,62%",
+    "26,29%",
+    "26,62%",
+    "23,67%"
+  ],
+  "PILIHAN_EVAL_3": [
+    "882.000",
+    "360.000",
+    "142.000",
+    "540.000",
+    "620.000"
+  ],
+  "PILIHAN_EVAL_4": [
+    "12.750.000",
+    "1.275.000",
+    "72.250.000",
+    "7.225.000",
+    "75.000.000"
+  ],
+  "PILIHAN_EVAL_5": [
+    "7 Tahun",
+    "7 Bulan",
+    "6 Bulan",
+    "6 Tahun",
+    "27 Bulan"
+  ],
+  "PILIHAN_EVAL_6": [
+    "10,5",
+    "10,05",
+    "9,5",
+    "9,95",
+    "490"
+  ],
+  "PILIHAN_EVAL_7": [
+    "150.000",
+    "350.000",
+    "632.500",
+    "327.500",
+    "620.000"
+  ],
+  "PILIHAN_EVAL_8": [
+    "750.000",
+    "275.000",
+    "290.000",
+    "225.000",
+    "75.000"
+  ],
+  "PILIHAN_EVAL_9": [
+    "7.500.000",
+    "84.375.000",
+    "67.500.000",
+    "16.875.000",
+    "70.325.000"
+  ],
+  "PILIHAN_EVAL_10": [
+    "50.000",
+    "1.020.000",
+    "85.000",
+    "1.250.000",
+    "150.000"
+  ],
+  "JAWABAN_EVAL": [
+    "U = 160.000",
+    "29,63%",
+    "540.000",
+    "72.250.000",
+    "7 Bulan",
+    "10,5",
+    "327.500",
+    "290.000",
+    "84.375.000",
+    "85.000"
+  ]
+}
