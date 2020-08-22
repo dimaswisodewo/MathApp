@@ -145,6 +145,7 @@ public class QuizUIController2 : MonoBehaviour
                 PILIHAN8 = JsonData.instance.kuisJsonData[0].PILIHAN_5_8;
                 PILIHAN9 = JsonData.instance.kuisJsonData[0].PILIHAN_5_9;
                 PILIHAN10 = JsonData.instance.kuisJsonData[0].PILIHAN_5_10;
+                PEMBAHASAN = JsonData.instance.kuisJsonData[0].PEMBAHASAN_5;
                 break;
 
             case KUIS.PERTANYAAN_6:
@@ -159,6 +160,7 @@ public class QuizUIController2 : MonoBehaviour
                 PILIHAN8 = JsonData.instance.kuisJsonData[0].PILIHAN_6_8;
                 PILIHAN9 = JsonData.instance.kuisJsonData[0].PILIHAN_6_9;
                 PILIHAN10 = JsonData.instance.kuisJsonData[0].PILIHAN_6_10;
+                PEMBAHASAN = JsonData.instance.kuisJsonData[0].PEMBAHASAN_6;
                 break;
 
             case KUIS.PERTANYAAN_EVAL:

@@ -203,7 +203,7 @@ public class KuisJsonData
     public string[] PILIHAN_4_10;
     public string[] JAWABAN_4;
     public string[] PERTANYAAN_5;
-    //public string[] PEMBAHASAN_5;
+    public string[] PEMBAHASAN_5;
     public string[] PILIHAN_5_1;
     public string[] PILIHAN_5_2;
     public string[] PILIHAN_5_3;
@@ -216,7 +216,7 @@ public class KuisJsonData
     public string[] PILIHAN_5_10;
     public string[] JAWABAN_5;
     public string[] PERTANYAAN_6;
-    //public string[] PEMBAHASAN_6;
+    public string[] PEMBAHASAN_6;
     public string[] PILIHAN_6_1;
     public string[] PILIHAN_6_2;
     public string[] PILIHAN_6_3;

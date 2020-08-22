@@ -23,7 +23,6 @@ public class QuizController2 : MonoBehaviour
     [HideInInspector] public KUIS jawabanEnum;
     [HideInInspector] public KUIS pilihanEnum;
 
-
     public void OnSubmitButtonClicked(int index)
     {
         if (numOfQuestion >= 10)
@@ -318,24 +317,43 @@ public class QuizController2 : MonoBehaviour
         }
         else
         {
-            TimeStart(false);
-            numOfQuestion = 10;
-
-            for (int i = 0; i < QuizUIController2.instance.libraryPopUp.Count; i++)
+            if (hasAnswered == false)
             {
-                QuizUIController2.instance.SetActiveLibraryPopUp(i, true);
+                TimeStart(false);
+                //numOfQuestion = 10;
+
+                for (int i = 0; i < QuizUIController2.instance.libraryPopUp.Count; i++)
+                {
+                    QuizUIController2.instance.SetActiveLibraryPopUp(i, true);
+                }
+
+                QuizUIController2.instance.SetPopUpPanelActive(true);
+                SoundController.instance.PlaySound(SOUND.CLAP);
+                hasAnswered = true;
+                Debug.Log("else");
             }
 
-            hasAnswered = true;
+            //TimeStart(false);
+            //numOfQuestion = 10;
+
+            //for (int i = 0; i < QuizUIController2.instance.libraryPopUp.Count; i++)
+            //{
+            //    QuizUIController2.instance.SetActiveLibraryPopUp(i, true);
+            //}
+
+            //QuizUIController2.instance.SetPopUpPanelActive(true);
+            //SoundController.instance.PlaySound(SOUND.CLAP);
+            //hasAnswered = true;
+            //Debug.Log("else");
         }
 
         if (numOfQuestion >= 10)
         {
             Debug.Log("Quiz Selesai...");
-            QuizUIController2.instance.SetPopUpPanelActive(true);
-            SoundController.instance.PlaySound(SOUND.CLAP);
+            //QuizUIController2.instance.SetPopUpPanelActive(true);
+            //SoundController.instance.PlaySound(SOUND.CLAP);
+            TimeStart(false);
             numOfQuestion = 0;
-            ResetTimer();
         }
     }
 }
