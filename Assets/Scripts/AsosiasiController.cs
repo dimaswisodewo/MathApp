@@ -11,8 +11,8 @@ public class AsosiasiController : MonoBehaviour
         string answerString = "kosong";
         string pembahasanString = "kosong";
 
-        switch (fieldNumber)
-        {
+        //switch (fieldNumber)
+        //{
             //case INPUT_FIELD_NUMBER.ASO_1_1:
             //    answerString = JsonData.instance.pembahasanJsonData[0].ASOSIASI_1[0];
             //    pembahasanString = JsonData.instance.pembahasanJsonData[0].ASOSIASI_1_PEMBAHASAN[0];
@@ -82,7 +82,7 @@ public class AsosiasiController : MonoBehaviour
             //    answerString = JsonData.instance.pembahasanJsonData[0].ASOSIASI_6[1];
             //    pembahasanString = JsonData.instance.pembahasanJsonData[0].ASOSIASI_6_PEMBAHASAN[1];
             //    break;
-        }
+        //}
 
         pembahasanString = pembahasanString.Replace("\\n", "\n");
         bool isCorrect;

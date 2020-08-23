@@ -175,6 +175,7 @@ public class QuizUIController2 : MonoBehaviour
                 PILIHAN8 = JsonData.instance.kuisJsonData[0].PILIHAN_EVAL_8;
                 PILIHAN9 = JsonData.instance.kuisJsonData[0].PILIHAN_EVAL_9;
                 PILIHAN10 = JsonData.instance.kuisJsonData[0].PILIHAN_EVAL_10;
+                PEMBAHASAN = JsonData.instance.kuisJsonData[0].PEMBAHASAN_EVAL;
                 break;
         }
 

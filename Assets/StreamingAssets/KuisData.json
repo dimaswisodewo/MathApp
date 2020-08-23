@@ -640,12 +640,24 @@
     "Seorang pedagang buah membeli 45 kg apel dengan harga Rp. 15.000,00 per kg, kemudian dijual kembali. Uang yang diperolehnya sekarang berjumlah Rp. 875.000,00. Tentukanlah persentase untung atau ruginya!",
     "Seorang penjual membeli baju dari grosir sebanyak 30 pcs dengan modal Rp 900.000,00. Baju tersebut dijual dengan label harga Rp 60.000,00 dengan diskon 20% dan ternyata baju tersebut terjual semua. Tentukan besar keuntungan yang penjual dapatkan!",
     "Rina mengelola sebuah restoran dan penghasilannya tiap bulan sebesar Rp. 85.000.000,00. Rina dikenakan pajak penghasilan sebesar 15%. Tentukanlah pendapatan Rina setelah potong pajak!",
-    "Bondan menyimpan uang di suatu bank sebesar Rp. 750.000,00 dengan bunga 15% setahun. Jika Bondan menerima bunga sebesar Rp. 65.625,00, tentukan lamanya uang itu disimpan di bank!",
+    "Bondan menyimpan uang di suatu bank sebesar Rp. 750.000,00 dengan bunga tunggal 15% setahun. Jika Bondan menerima bunga sebesar Rp. 65.625,00, tentukan lamanya uang itu disimpan di bank!",
     "Suatu benda memiliki neto 10 kg dan tara 500 gram. Tentukan bruto (dalam kg) benda tersebut!",
-    "Seorang pedagang tempe membeli sekarung kacang kedelai seberat 100 kg. Tara untuk karung 1,5% dan potongan harga 5%. Jika harga kedelai Rp. 3.500,00 per kg, tentukanlah harga kedelai yang harus dibayar pedagang tempe tersebut!",
-    "Seorang pedagang tempe membeli sekarung kacang kedelai seberat 100 kg. Tara untuk karung 1,5% dan potongan harga 5%. Jika harga kedelai Rp. 3.500,00 per kg, tentukanlah harga kedelai yang harus dibayar pedagang tempe tersebut!",
+    "Seorang pedagang tempe membeli sekarung kacang kedelai seberat 100 kg. Tara untuk karung 1,5% dan potongan harga 5%. Jika harga kedelai Rp. 7.000,00 per kg, tentukanlah harga kedelai yang harus dibayar pedagang tempe tersebut!",
+    "Suatu ketika Pak Adi membeli dua karung beras dengan jenis yang berbeda. Karung pertama tertulis netto 30 kg dibeli dengan harga Rp. 360.000,00. Karung kedua tertuliskan netto 30 kg. Pak Adi mencampur kedua jenis beras tersebut, kemudian mengemasinya dalam ukuran netto 30 kg. Beras campuran tersebut dijual dengan harga Rp. 33.000,00 per kemasan. Jika keuntungan tiap kemasan adalah 20%, tentukan harga beli beras kedua!",
     "Seorang bapak membeli sebuah mobil untuk dihadiahkan pada seorang anaknya yang akan berulang tahun ke-17, dengan harga Rp. 75.000.000,00. Pada pembelian mobil tersebut, sang bapak mendapat diskon 10%, tetapi harus membayar pajak 25%. Berapakah harga mobil yang harus dibayarkan sang bapak?",
-    "Sabrina meminjam uang dari sebuah bank sebanyak Rp. 4.500.000,00 untuk biaya pengembangan usahanya. Bank memberikan bunga 16% per tahun. Uang itu dicicil selama 15 tahun. Tentukanlah besar cicilannya setiap bulan."
+    "Sabrina meminjam uang dari sebuah bank sebanyak Rp. 4.500.000,00 untuk biaya pengembangan usahanya. Bank memberikan bunga 16% per tahun. Uang itu dicicil selama 15 bulan. Tentukanlah besar cicilannya setiap bulan."
+  ],
+  "PEMBAHASAN_EVAL": [
+    "Diketahui:\\nHarga beli = 45 x 15.000 = Rp. 675.000,00\\nHarga jual = Rp. 835.000,00\\n\\nDitanya:\\nBerapakah besar untung atau ruginya?\\n\\nJawab:\\nKarena harga jual lebih besar daripada harga beli maka pedagang tersebut untung\\nUntung = Harga jual - Harga beli = 835.000 - 675.000 = 160.000\\n\\nJadi pedagang tersebut mendapatkan untung sebesar Rp. 160.000,00",
+    "Diketahui:\\nHarga beli = 45 x 15.000 = Rp. 675.000,00\\nHarga jual = Rp. 875.000,00\\n\\nDitanya:\\nBerapa persentase untung atau rugi yang dialami oleh pedagang buah tersebut?\\n\\nJawab:\\nKarena harga jual lebih besar daripada harga beli maka pedagang mendapatkan untung\\nUntung = Harga jual - Harga beli = 875.000 - 675.000 = Rp. 200.000,00\\n%U = (U/Hb) x 100% = (200.000/675.000) x 100% = 29,63%\\n\\nJadi persentase keuntungan yang didapatkan pedagang tersebut sebesar 29,63%",
+    "Diketahui:\\nHarag beli = Rp. 900.000,00\\nHarga jual perpasang sebelum diskon = Rp. 60.000,00\\nPersentase diskon = 20%\\n\\nDitanya:\\nTentukan besar keuntungan yang didapatkan oleh penjual tersebut!\\n\\nJawab:\\nDiskon = Persentase diskon x Harga perpasang sebelum diskon\\nDiskon = 20% x 60.000 = Rp. 12.000\\nHarga jual perpasang setelah diskon = Harga jual perpasang sebelum diskon - Diskon\\nHarga jual perpasang setelah diskon = 60.000 - 12.000 = 48.000\\nHarga jual 30 pcs setelah diskon - Harga beli 30 pcs\\nUntung = 1.440.000 - 900.000 = 540.000\\n\\nJadi besar keuntungan yang didapatkan oleh pedagang tersebut sebesar Rp. 540.000,00",
+    "Diketahui:\\nPenghasilan awal = Rp. 85.000.000,00\\nPersentase pajak = 15%\\n\\nDitanya:\\nTentukanlah pendapatan bersih yang diperoleh Rina?\\n\\nJawab:\\nPajak = Persentase pajak x Penghasilan awal = (15/100) x 85.000.000 = 12.750.000\\nPendapatan bersih = Penghasilan awal - Pajak = 85.000.000 - 12.750.000 = 72.750.000\\n\\nJadi pendapatan bersih yang diperoleh Rina sebesar Rp. 72.750.000,00",
+    "Diketahui:\\nTabungan awal = Rp. 750.000,00\\nPersentase bunga = 15%\\nBunga = Rp. 65.625,00\\n\\nDitanya:\\nTentukanlah lama menabung Bondan!\\n\\nJawab:\\nLama menabung = Bunga/(Persentase bunga x Tabungan awal) = 65.625/(15% x 750.000) = 7/12\\n\\nJadi Bondan menabung uangnya di bank selama 7 Bulan",
+    "Diketahui:\\nNetto = 10 kg\\nTara = 500 gram = 0,5 kg\\n\\nDitanya:\\nTentukanlah brutonya!\\n\\nJawab:\\nBruto = Netto + Tara = 10 + 0,5 = 10,5\\n\\njadi bruto benda tersebut adalah 10,5 kg",
+    "Diketahui:\\nBruto = n100 kg\\nPersentase tara = 1,5%\\nPersentase diskon = 5%\\nHarga kedelai per kg = Rp. 7.000,00\\n\\nDitanya:\\nTentukanlah harga beli kedelai tersebut!\\n\\nJawab:\\n%Tara = (Tara/Bruto) x 100%\\n1,5% = (Tara/100) x 100%\\nTara = 1,5 kg\\nNetto = Bruto - Tara = 100 - 1,5 = 98,5\\nHarga kedelai = 98,5 x 7.000 = 689.500\\nDiskon = Persentase diskon x Harga awal = (5/100) x 689.500 = 34.475\\nHarga setelah diskon = Harga awal - Diskon = 689.500 - 34.475 = 655.025\\n\\nJadi harga beli kedelai tersebut sebesar Rp. 655.025,00",
+    "Diketahui:\\nNetto = 30 + 30 = 60 kg\\nHarga beli beras pertama = Rp. 260.000,00\\nJumlah kemasan = 60 : 3 = 20 kemasan\\nHarga jual per kemasan = Rp. 33.000,00\\nPersentase untung = 20%\\n\\nDitanya;\\nTentukanlah harga beli beras kedua jika Pak Adi mendapatkan untung 20%!\\n\\nJawab:\\nUntung = Persentase untung x Harga beli total = (20/100) Harga beli total\\nUntung = 20% Harga beli total\\nHarga jual total = harga jual per kemasan x Banyak kemasan\\nHarga jual total = 33.000 x 20\\nHarga jual total = Rp. 660.000,00\\nHarga jual total = Harga beli total + Untung\\n660.000 = Harga beli total + 20% Harga beli total\\n660.000 = 120% Harga beli total\\nHarga beli total = 550.000\\nHarga beli beras kedua = Harga beli total - Harga beli beras pertama\\nHarga beli beras kedua = 550.000 - 260.000 = 290.000\\n\\nJadi harga beli beras kedua jika Pak Adi mendapatkan untung 20% adalah Rp. 290.,00",
+    "Diketahui:\\nHarga awal = Rp. 75.000.000,00\\nPersentase diskon = 10%\\nPersentase pajak = 25%\\n\\nDitanya:\\nBerapakah harga mobil yang harus dibayarkan bapak tersebut?\\n\\nJawab:\\nDiskon = Persentase diskon x Harga awal = (10/100) x 75.000.000 = 7.500.000\\nHarga setelah diskon = harga awal - Diskon = 75.000.000 - 7.500.000 = 67.500.000 = 16.875.000\\nHarga setelah pajak = harga setelah diskon + Pajak = 67.500.000 + 16.875.000 = 84.375.000\\n\\nJadi harga mobil yang harus dibayarkan bapak tersebut sebesar Rp. 84.375.000,00",
+    "Diektahui:\\nPersentase bunga = 16%\\nPinjaman awal = Rp. 4.500.000,00\\nLama pinjaman = 15 bulan\\nBanyak angsuran = 15 kali\\n\\nDitanya:\\nTentukanlah besar cicilan Sabrina tiap bulannya!\\n\\nJawab:\\nBunga = Pinjaman awal x Persentase bunga x Lama pinjaman\\nBunga = 4.500.000 x (16/100) x (15/12) = 900.000\\nAngsuran = (Pinjaman awal + Bunga)/Banyak angsuran = (4.500.000 + 900.000)/15 = 360.000\\n\\nJadi besar cicilan Sabrina tiap bulannya sebesar Rp. 360.000,00"
   ],
   "PILIHAN_EVAL_1": [
     "U = 675.000",
@@ -691,10 +703,10 @@
   ],
   "PILIHAN_EVAL_7": [
     "150.000",
-    "350.000",
+    "34.475",
     "632.500",
-    "327.500",
-    "620.000"
+    "655.025",
+    "689.500"
   ],
   "PILIHAN_EVAL_8": [
     "750.000",
@@ -713,7 +725,7 @@
   "PILIHAN_EVAL_10": [
     "50.000",
     "1.020.000",
-    "85.000",
+    "360.000",
     "1.250.000",
     "150.000"
   ],
@@ -724,9 +736,9 @@
     "72.250.000",
     "7 Bulan",
     "10,5",
-    "327.500",
+    "655.025",
     "290.000",
     "84.375.000",
-    "85.000"
+    "360.000"
   ]
 }

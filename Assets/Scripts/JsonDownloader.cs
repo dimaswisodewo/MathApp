@@ -229,6 +229,7 @@ public class KuisJsonData
     public string[] PILIHAN_6_10;
     public string[] JAWABAN_6;
     public string[] PERTANYAAN_EVAL;
+    public string[] PEMBAHASAN_EVAL;
     public string[] PILIHAN_EVAL_1;
     public string[] PILIHAN_EVAL_2;
     public string[] PILIHAN_EVAL_3;
