@@ -10,6 +10,7 @@ public class VideoPlayerController : MonoBehaviour, IPointerUpHandler, IPointerD
     public VideoPlayer videoPlayer;
     public Slider slider;
     public List<VideoClip> libraryVideoClip = new List<VideoClip>();
+    public Text sourceText;
     private bool isSliding = false;
 
     public void OnPointerUp(PointerEventData eventData)
@@ -26,6 +27,11 @@ public class VideoPlayerController : MonoBehaviour, IPointerUpHandler, IPointerD
         Debug.Log("Mouse Down");
     }
     
+    private void SetSourceText(string inputString)
+    {
+        sourceText.text = inputString;
+    }
+
     private void Awake()
     {
         SceneLoader.instance.SetOrientation(ORIENTATION.LANDSCAPE);
