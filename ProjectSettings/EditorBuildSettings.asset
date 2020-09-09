@@ -23,7 +23,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/KDScene.unity
     guid: 7879b5dbb4b1f594da9aa907f88cde81
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/KuisScene.unity
     guid: a2e09fe47e3e0e64a922b119c033eafd
   - enabled: 1

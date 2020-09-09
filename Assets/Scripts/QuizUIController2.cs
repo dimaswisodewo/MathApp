@@ -438,7 +438,7 @@ public class QuizUIController2 : MonoBehaviour
                 break;
 
             case BUTTON_COLOR.WHITE:
-                inputImage.color = new Color32(50, 130, 184, 255);
+                inputImage.color = new Color32(255, 255, 255, 255);
                 break;
         }
     }
